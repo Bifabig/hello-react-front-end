@@ -34,7 +34,7 @@
 
 **Hello React Front End:** is a react front end for generating random greetings.
 
-=> [Link to Rails app](https://github.com/Bifabig/hello-rails-back-end)
+=> [Link to Rails app](https://github.com/Bifabig/hello-rails-back-end/tree/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
